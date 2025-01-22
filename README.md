@@ -1,1 +1,1 @@
-# Flower-Species-Prediction
+This project is a simple machine learning-based application that predicts the species of a flower based on its petal and sepal dimensions (height and width). Users input these measurements, and the model analyzes the data to determine the flower species. The project uses Python with libraries like scikit-learn and pandas for data processing and model training, and a user-friendly interface for input and output. It serves as an excellent example of how machine learning can be applied to classification tasks.
